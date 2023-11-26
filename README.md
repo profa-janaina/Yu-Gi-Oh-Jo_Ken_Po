@@ -1,7 +1,7 @@
 # Yu-Gi-Oh-Jo_Ken_Po
 
 <p align="center">
-  <img src="https://github.com/profa-janaina/Yu-Gi-Oh-Jo_Ken_Po/blob/main/assets/icons/millenium.png" alt="Imagem do Enigma do Milênio do Yu-Gi-Oh">
+  <img src="https://github.com/profa-janaina/Yu-Gi-Oh-Jo_Ken_Po/blob/main/src/assets/icons/millenium.png" alt="Imagem do Enigma do Milênio do Yu-Gi-Oh">
 </p>
 
 Jogo Jo Ken Po (Pedra-Papel-Tesoura) com a temática do Yu Gi Oh. A realização deste projeto faz parte das tarefas a serem realizadas no Bootcamp Potência Tech iFood - Desenvolvimento de Jogos
